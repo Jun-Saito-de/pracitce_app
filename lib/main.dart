@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_metro_practice/visited_list_page.dart';
 // 追加import
 import 'dart:math';  // ランダムに駅を選ぶRandomクラスを使うため
 import 'station.dart'; // 自分で定義したStationクラスを使うため
@@ -125,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
     if (_selectedIndex == 0) {
       return WantedListPage(); // 一覧ページ（行きたい駅）
     } else if (_selectedIndex == 1) {
-      return _buildMainPage(); // 一覧ページ（行った駅）
+      return VisitedListPage(); // 一覧ページ（行った駅）
     } else {
       return _buildMainPage(); // ホーム画面（駅を表示）);
     }
@@ -166,6 +167,10 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           BottomNavigationBarItem(icon: Icon(Icons.check_outlined),
             label: '行った',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.home),
+            label: 'ホーム',
           ),
         ],
       ),
