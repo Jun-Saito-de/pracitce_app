@@ -1,0 +1,2954 @@
+[
+  {
+    "name": "渋谷",
+    "kana": "しぶや",
+    "romaji": "Shibuya",
+    "numbering": [
+      "G01",
+      "Z01",
+      "F16"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ半蔵門線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "表参道",
+    "kana": "おもてさんどう",
+    "romaji": "Omotesando",
+    "numbering": [
+      "G02",
+      "C04",
+      "Z02"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ千代田線",
+      "東京メトロ半蔵門線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "外苑前",
+    "kana": "がいえんまえ",
+    "romaji": "Gaienmae",
+    "numbering": [
+      "G03"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都港区",
+    "trivia": "イチョウ並木で有名な明治神宮外苑の最寄駅。このイチョウ並木は大正15年に整備されたもので、約300メートルにわたる美しい景観は東京都選定の「歴史的景観」にも指定されています。"
+  },
+  {
+    "name": "青山一丁目",
+    "kana": "あおやまいっちょうめ",
+    "romaji": "Aoyama-itchome",
+    "numbering": [
+      "G04",
+      "Z03",
+      "E25"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ半蔵門線",
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "赤坂見附",
+    "kana": "あかさかみつけ",
+    "romaji": "Akasaka-mitsuke",
+    "numbering": [
+      "G05",
+      "M13"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "溜池山王",
+    "kana": "ためいけさんのう",
+    "romaji": "Tameike-sanno",
+    "numbering": [
+      "G06",
+      "N06"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ南北線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "虎ノ門",
+    "kana": "とらのもん",
+    "romaji": "Toranomon",
+    "numbering": [
+      "G07"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都港区",
+    "trivia": "「虎ノ御門」に由来し、江戸時代からの歴史があります。駅周辺は近年再開発が進み、虎ノ門駅には新たに「虎ノ門ヒルズ駅」ができ、地下通路での移動がますます便利になりました。"
+  },
+  {
+    "name": "新橋",
+    "kana": "しんばし",
+    "romaji": "Shimbashi",
+    "numbering": [
+      "G08",
+      "A10"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "都営浅草線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "銀座",
+    "kana": "ぎんざ",
+    "romaji": "Ginza",
+    "numbering": [
+      "G09",
+      "M16"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "京橋",
+    "kana": "きょうばし",
+    "romaji": "Kyobashi",
+    "numbering": [
+      "G10"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都中央区",
+    "trivia": "古くから商業中心地として栄えました。特に「京橋川」にかかる京橋は、江戸時代から「京橋の舟遊び」として知られ、当時の風情たっぷり。この地域は、東京の歴史と近代が交錯する場所として、多くの観光客に親しまれています。"
+  },
+  {
+    "name": "日本橋",
+    "kana": "にほんばし",
+    "romaji": "Nihombashi",
+    "numbering": [
+      "G11",
+      "T10",
+      "A13"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ東西線",
+      "都営浅草線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "三越前",
+    "kana": "みつこしまえ",
+    "romaji": "Mitsukoshimae",
+    "numbering": [
+      "G12",
+      "Z09"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ半蔵門線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "神田",
+    "kana": "かんだ",
+    "romaji": "Kanda",
+    "numbering": [
+      "G13"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": "有名な「神田古書店街」は、約170軒の書店が集まる日本最大の古書街として本好きに愛されています。また、神田明神が近くにあり、毎年「神田祭」などのイベントが開催されることでも知られています。"
+  },
+  {
+    "name": "末広町",
+    "kana": "すえひろちょう",
+    "romaji": "Suehirocho",
+    "numbering": [
+      "G14"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "上野広小路",
+    "kana": "うえのひろこうじ",
+    "romaji": "Ueno-hirokoji",
+    "numbering": [
+      "G15"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "上野",
+    "kana": "うえの",
+    "romaji": "Ueno",
+    "numbering": [
+      "G16",
+      "H05"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "稲荷町",
+    "kana": "いなりちょう",
+    "romaji": "Inaricho",
+    "numbering": [
+      "G17"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "田原町",
+    "kana": "たわらまち",
+    "romaji": "Tawaramachi",
+    "numbering": [
+      "G18"
+    ],
+    "lines": [
+      "東京メトロ銀座線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "浅草",
+    "kana": "あさくさ",
+    "romaji": "Asakusa",
+    "numbering": [
+      "G19",
+      "A18"
+    ],
+    "lines": [
+      "東京メトロ銀座線",
+      "都営浅草線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "荻窪",
+    "kana": "おぎくぼ",
+    "romaji": "Ogikubo",
+    "numbering": [
+      "M01"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都杉並区",
+    "trivia": ""
+  },
+  {
+    "name": "南阿佐ケ谷",
+    "kana": "みなみあさがや",
+    "romaji": "Minami-asagaya",
+    "numbering": [
+      "M02"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都杉並区",
+    "trivia": ""
+  },
+  {
+    "name": "新高円寺",
+    "kana": "しんこうえんじ",
+    "romaji": "Shin-koenji",
+    "numbering": [
+      "M03"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都杉並区",
+    "trivia": ""
+  },
+  {
+    "name": "東高円寺",
+    "kana": "ひがしこうえんじ",
+    "romaji": "Higashi-koenji",
+    "numbering": [
+      "M04"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都杉並区",
+    "trivia": ""
+  },
+  {
+    "name": "新中野",
+    "kana": "しんなかの",
+    "romaji": "Shin-nakano",
+    "numbering": [
+      "M05"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "中野坂上",
+    "kana": "なかのさかうえ",
+    "romaji": "Nakano-sakaue",
+    "numbering": [
+      "M06",
+      "Mb03",
+      "E30"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ丸ノ内線支線",
+      "都営大江戸線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "西新宿",
+    "kana": "にししんじゅく",
+    "romaji": "Nishi-shinjuku",
+    "numbering": [
+      "M07"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "新宿",
+    "kana": "しんじゅく",
+    "romaji": "Shinjuku",
+    "numbering": [
+      "M08",
+      "S01",
+      "E28"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "都営新宿線",
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "新宿三丁目",
+    "kana": "しんじゅくさんちょうめ",
+    "romaji": "Shinjuku-sanchome",
+    "numbering": [
+      "M09",
+      "F13",
+      "S02"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ副都心線",
+      "都営新宿線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "新宿御苑前",
+    "kana": "しんじゅくぎょえんまえ",
+    "romaji": "Shinjuku-gyoemmae",
+    "numbering": [
+      "M10"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "四谷三丁目",
+    "kana": "よつやさんちょうめ",
+    "romaji": "Yotsuya-sanchome",
+    "numbering": [
+      "M11"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "四ツ谷",
+    "kana": "よつや",
+    "romaji": "Yotsuya",
+    "numbering": [
+      "M12",
+      "N08"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ南北線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "国会議事堂前",
+    "kana": "こっかいぎじどうまえ",
+    "romaji": "Kokkai-gijidomae",
+    "numbering": [
+      "M14",
+      "C07"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "霞ケ関",
+    "kana": "かすみがせき",
+    "romaji": "Kasumigaseki",
+    "numbering": [
+      "M15",
+      "C08"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "東京",
+    "kana": "とうきょう",
+    "romaji": "Tokyo",
+    "numbering": [
+      "M17"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "大手町",
+    "kana": "おおてまち",
+    "romaji": "Otemachi",
+    "numbering": [
+      "M18",
+      "T09",
+      "C11",
+      "Z08",
+      "I09"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ東西線",
+      "東京メトロ千代田線",
+      "東京メトロ半蔵門線",
+      "都営三田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "淡路町",
+    "kana": "あわじちょう",
+    "romaji": "Awajicho",
+    "numbering": [
+      "M19"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "御茶ノ水",
+    "kana": "おちゃのみず",
+    "romaji": "Ochanomizu",
+    "numbering": [
+      "M20"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "本郷三丁目",
+    "kana": "ほんごうさんちょうめ",
+    "romaji": "Hongo-sanchome",
+    "numbering": [
+      "M21",
+      "E09"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "都営大江戸線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "後楽園",
+    "kana": "こうらくえん",
+    "romaji": "Korakuen",
+    "numbering": [
+      "M22",
+      "N11"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ南北線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "茗荷谷",
+    "kana": "みょうがだに",
+    "romaji": "Myogadani",
+    "numbering": [
+      "M23"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "新大塚",
+    "kana": "しんおおつか",
+    "romaji": "Shin-otsuka",
+    "numbering": [
+      "M24"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "池袋",
+    "kana": "いけぶくろ",
+    "romaji": "Ikebukuro",
+    "numbering": [
+      "M25",
+      "Y09",
+      "F09"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線",
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "中野新橋",
+    "kana": "なかのしんばし",
+    "romaji": "Nakano-shimbashi",
+    "numbering": [
+      "Mb04"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線支線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "中野富士見町",
+    "kana": "なかのふじみちょう",
+    "romaji": "Nakano-fujimicho",
+    "numbering": [
+      "Mb05"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線支線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "方南町",
+    "kana": "ほうなんちょう",
+    "romaji": "Honancho",
+    "numbering": [
+      "Mb06"
+    ],
+    "lines": [
+      "東京メトロ丸ノ内線支線"
+    ],
+    "location": "東京都杉並区",
+    "trivia": ""
+  },
+  {
+    "name": "北千住",
+    "kana": "きたせんじゅ",
+    "romaji": "Kita-senju",
+    "numbering": [
+      "H01",
+      "C18"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都足立区",
+    "trivia": ""
+  },
+  {
+    "name": "南千住",
+    "kana": "みなみせんじゅ",
+    "romaji": "Minami-senju",
+    "numbering": [
+      "H02"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都荒川区",
+    "trivia": ""
+  },
+  {
+    "name": "三ノ輪",
+    "kana": "みのわ",
+    "romaji": "Minowa",
+    "numbering": [
+      "H03"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "入谷",
+    "kana": "いりや",
+    "romaji": "Iriya",
+    "numbering": [
+      "H04"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "仲御徒町",
+    "kana": "なかおかちまち",
+    "romaji": "Naka-okachimachi",
+    "numbering": [
+      "H06"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "秋葉原",
+    "kana": "あきはばら",
+    "romaji": "Akihabara",
+    "numbering": [
+      "H07"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "小伝馬町",
+    "kana": "こでんまちょう",
+    "romaji": "Kodemmacho",
+    "numbering": [
+      "H08"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "人形町",
+    "kana": "にんぎょうちょう",
+    "romaji": "Ningyocho",
+    "numbering": [
+      "H09",
+      "A14"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "都営浅草線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "茅場町",
+    "kana": "かやばちょう",
+    "romaji": "Kayabacho",
+    "numbering": [
+      "H10",
+      "T11"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "東京メトロ東西線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "八丁堀",
+    "kana": "はっちょうぼり",
+    "romaji": "Hatchobori",
+    "numbering": [
+      "H11"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "築地",
+    "kana": "つきじ",
+    "romaji": "Tsukiji",
+    "numbering": [
+      "H12"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "東銀座",
+    "kana": "ひがしぎんざ",
+    "romaji": "Higashi-ginza",
+    "numbering": [
+      "H13",
+      "A11"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "都営浅草線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "日比谷",
+    "kana": "ひびや",
+    "romaji": "Hibiya",
+    "numbering": [
+      "H14",
+      "C09",
+      "I08"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "東京メトロ千代田線",
+      "都営三田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "神谷町",
+    "kana": "かみやちょう",
+    "romaji": "Kamiyacho",
+    "numbering": [
+      "H15"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "六本木",
+    "kana": "ろっぽんぎ",
+    "romaji": "Roppongi",
+    "numbering": [
+      "H16",
+      "E24"
+    ],
+    "lines": [
+      "東京メトロ日比谷線",
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "広尾",
+    "kana": "ひろお",
+    "romaji": "Hiro-o",
+    "numbering": [
+      "H17"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "恵比寿",
+    "kana": "えびす",
+    "romaji": "Ebisu",
+    "numbering": [
+      "H18"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "中目黒",
+    "kana": "なかめぐろ",
+    "romaji": "Naka-meguro",
+    "numbering": [
+      "H19"
+    ],
+    "lines": [
+      "東京メトロ日比谷線"
+    ],
+    "location": "東京都目黒区",
+    "trivia": ""
+  },
+  {
+    "name": "中野",
+    "kana": "なかの",
+    "romaji": "Nakano",
+    "numbering": [
+      "T01"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "落合",
+    "kana": "おちあい",
+    "romaji": "Ochiai",
+    "numbering": [
+      "T02"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "高田馬場",
+    "kana": "たかだのばば",
+    "romaji": "Takadanobaba",
+    "numbering": [
+      "T03"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "早稲田",
+    "kana": "わせだ",
+    "romaji": "Waseda",
+    "numbering": [
+      "T04"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "神楽坂",
+    "kana": "かぐらざか",
+    "romaji": "Kagurazaka",
+    "numbering": [
+      "T05"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "飯田橋",
+    "kana": "いいだばし",
+    "romaji": "Iidabashi",
+    "numbering": [
+      "T06",
+      "Y13",
+      "N10",
+      "E07"
+    ],
+    "lines": [
+      "東京メトロ東西線",
+      "東京メトロ有楽町線",
+      "東京メトロ南北線",
+      "都営大江戸線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "九段下",
+    "kana": "くだんした",
+    "romaji": "Kudanshita",
+    "numbering": [
+      "T07",
+      "Z06",
+      "S05"
+    ],
+    "lines": [
+      "東京メトロ東西線",
+      "東京メトロ半蔵門線",
+      "都営新宿線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "竹橋",
+    "kana": "たけばし",
+    "romaji": "Takebashi",
+    "numbering": [
+      "T08"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "門前仲町",
+    "kana": "もんぜんなかちょう",
+    "romaji": "Monzen-nakacho",
+    "numbering": [
+      "T12",
+      "E16"
+    ],
+    "lines": [
+      "東京メトロ東西線",
+      "都営大江戸線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "木場",
+    "kana": "きば",
+    "romaji": "Kiba",
+    "numbering": [
+      "T13"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "東陽町",
+    "kana": "とうようちょう",
+    "romaji": "Toyocho",
+    "numbering": [
+      "T14"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "南砂町",
+    "kana": "みなみすなまち",
+    "romaji": "Minami-sunamachi",
+    "numbering": [
+      "T15"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "西葛西",
+    "kana": "にしかさい",
+    "romaji": "Nishi-kasai",
+    "numbering": [
+      "T16"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "葛西",
+    "kana": "かさい",
+    "romaji": "Kasai",
+    "numbering": [
+      "T17"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "浦安",
+    "kana": "うらやす",
+    "romaji": "Urayasu",
+    "numbering": [
+      "T18"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県浦安市",
+    "trivia": ""
+  },
+  {
+    "name": "南行徳",
+    "kana": "みなみぎょうとく",
+    "romaji": "Minami-gyotoku",
+    "numbering": [
+      "T19"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県市川市",
+    "trivia": ""
+  },
+  {
+    "name": "行徳",
+    "kana": "ぎょうとく",
+    "romaji": "Gyotoku",
+    "numbering": [
+      "T20"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県市川市",
+    "trivia": ""
+  },
+  {
+    "name": "妙典",
+    "kana": "みょうでん",
+    "romaji": "Myoden",
+    "numbering": [
+      "T21"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県市川市",
+    "trivia": ""
+  },
+  {
+    "name": "原木中山",
+    "kana": "ばらきなかやま",
+    "romaji": "Baraki-nakayama",
+    "numbering": [
+      "T22"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県船橋市",
+    "trivia": ""
+  },
+  {
+    "name": "西船橋",
+    "kana": "にしふなばし",
+    "romaji": "Nishi-funabashi",
+    "numbering": [
+      "T23"
+    ],
+    "lines": [
+      "東京メトロ東西線"
+    ],
+    "location": "千葉県船橋市",
+    "trivia": ""
+  },
+  {
+    "name": "代々木上原",
+    "kana": "よよぎうえはら",
+    "romaji": "Yoyogi-uehara",
+    "numbering": [
+      "C01"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "代々木公園",
+    "kana": "よよぎこうえん",
+    "romaji": "Yoyogi-koen",
+    "numbering": [
+      "C02"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "明治神宮前",
+    "kana": "めいじじんぐうまえ",
+    "romaji": "Meiji-jingumae",
+    "numbering": [
+      "C03"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "乃木坂",
+    "kana": "のぎざか",
+    "romaji": "Nogizaka",
+    "numbering": [
+      "C05"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "赤坂",
+    "kana": "あかさか",
+    "romaji": "Akasaka",
+    "numbering": [
+      "C06"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "二重橋前",
+    "kana": "にじゅうばしまえ",
+    "romaji": "Nijubashimae",
+    "numbering": [
+      "C10"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "新御茶ノ水",
+    "kana": "しんおちゃのみず",
+    "romaji": "Shin-ochanomizu",
+    "numbering": [
+      "C12"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "湯島",
+    "kana": "ゆしま",
+    "romaji": "Yushima",
+    "numbering": [
+      "C13"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "根津",
+    "kana": "ねづ",
+    "romaji": "Nezu",
+    "numbering": [
+      "C14"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "千駄木",
+    "kana": "せんだぎ",
+    "romaji": "Sendagi",
+    "numbering": [
+      "C15"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "西日暮里",
+    "kana": "にしにっぽり",
+    "romaji": "Nishi-nippori",
+    "numbering": [
+      "C16"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都荒川区",
+    "trivia": ""
+  },
+  {
+    "name": "町屋",
+    "kana": "まちや",
+    "romaji": "Machiya",
+    "numbering": [
+      "C17"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都荒川区",
+    "trivia": ""
+  },
+  {
+    "name": "綾瀬",
+    "kana": "あやせ",
+    "romaji": "Ayase",
+    "numbering": [
+      "C19"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都足立区",
+    "trivia": ""
+  },
+  {
+    "name": "北綾瀬",
+    "kana": "きたあやせ",
+    "romaji": "Kita-ayase",
+    "numbering": [
+      "C20"
+    ],
+    "lines": [
+      "東京メトロ千代田線"
+    ],
+    "location": "東京都足立区",
+    "trivia": ""
+  },
+  {
+    "name": "和光市",
+    "kana": "わこうし",
+    "romaji": "Wakoshi",
+    "numbering": [
+      "Y01",
+      "F01"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "埼玉県和光市",
+    "trivia": ""
+  },
+  {
+    "name": "地下鉄成増",
+    "kana": "ちかてつなります",
+    "romaji": "Chikatetsu-narimasu",
+    "numbering": [
+      "Y02",
+      "F02"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "地下鉄赤塚",
+    "kana": "ちかてつあかつか",
+    "romaji": "Chikatetsu-akatsuka",
+    "numbering": [
+      "Y03",
+      "F03"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "平和台",
+    "kana": "へいわだい",
+    "romaji": "Heiwadai",
+    "numbering": [
+      "Y04",
+      "F04"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "氷川台",
+    "kana": "ひかわだい",
+    "romaji": "Hikawadai",
+    "numbering": [
+      "Y05",
+      "F05"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "小竹向原",
+    "kana": "こたけむかいはら",
+    "romaji": "Kotake-mukaihara",
+    "numbering": [
+      "Y06",
+      "F06"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "千川",
+    "kana": "せんかわ",
+    "romaji": "Senkawa",
+    "numbering": [
+      "Y07",
+      "F07"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "要町",
+    "kana": "かなめちょう",
+    "romaji": "Kanamecho",
+    "numbering": [
+      "Y08",
+      "F08"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "東池袋",
+    "kana": "ひがしいけぶくろ",
+    "romaji": "Higashi-ikebukuro",
+    "numbering": [
+      "Y10"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "護国寺",
+    "kana": "ごこくじ",
+    "romaji": "Gokokuji",
+    "numbering": [
+      "Y11"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "江戸川橋",
+    "kana": "えどがわばし",
+    "romaji": "Edogawabashi",
+    "numbering": [
+      "Y12"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "市ケ谷",
+    "kana": "いちがや",
+    "romaji": "Ichigaya",
+    "numbering": [
+      "Y14",
+      "N09"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ南北線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "麹町",
+    "kana": "こうじまち",
+    "romaji": "Kojimachi",
+    "numbering": [
+      "Y15"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "永田町",
+    "kana": "ながたちょう",
+    "romaji": "Nagatacho",
+    "numbering": [
+      "Y16",
+      "Z04",
+      "N07"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "東京メトロ半蔵門線",
+      "東京メトロ南北線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "桜田門",
+    "kana": "さくらだもん",
+    "romaji": "Sakuradamon",
+    "numbering": [
+      "Y17"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "有楽町",
+    "kana": "ゆうらくちょう",
+    "romaji": "Yurakucho",
+    "numbering": [
+      "Y18"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "銀座一丁目",
+    "kana": "ぎんざいっちょうめ",
+    "romaji": "Ginza-itchome",
+    "numbering": [
+      "Y19"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "新富町",
+    "kana": "しんとみちょう",
+    "romaji": "Shintomicho",
+    "numbering": [
+      "Y20"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "月島",
+    "kana": "つきしま",
+    "romaji": "Tsukishima",
+    "numbering": [
+      "Y21",
+      "E17"
+    ],
+    "lines": [
+      "東京メトロ有楽町線",
+      "都営大江戸線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "豊洲",
+    "kana": "とよす",
+    "romaji": "Toyosu",
+    "numbering": [
+      "Y22"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "辰巳",
+    "kana": "たつみ",
+    "romaji": "Tatsumi",
+    "numbering": [
+      "Y23"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "新木場",
+    "kana": "しんきば",
+    "romaji": "Shin-kiba",
+    "numbering": [
+      "Y24"
+    ],
+    "lines": [
+      "東京メトロ有楽町線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "半蔵門",
+    "kana": "はんぞうもん",
+    "romaji": "Hanzomon",
+    "numbering": [
+      "Z05"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "神保町",
+    "kana": "じんぼうちょう",
+    "romaji": "Jimbocho",
+    "numbering": [
+      "Z07",
+      "I10",
+      "S06"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線",
+      "都営三田線",
+      "都営新宿線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "水天宮前",
+    "kana": "すいてんぐうまえ",
+    "romaji": "Suitengumae",
+    "numbering": [
+      "Z10"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "清澄白河",
+    "kana": "きよすみしらかわ",
+    "romaji": "Kiyosumi-shirakawa",
+    "numbering": [
+      "Z11",
+      "E15"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線",
+      "都営大江戸線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "住吉",
+    "kana": "すみよし",
+    "romaji": "Sumiyoshi",
+    "numbering": [
+      "Z12",
+      "S13"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線",
+      "都営新宿線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "錦糸町",
+    "kana": "きんしちょう",
+    "romaji": "Kinshicho",
+    "numbering": [
+      "Z13"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線"
+    ],
+    "location": "東京都墨田区",
+    "trivia": ""
+  },
+  {
+    "name": "押上",
+    "kana": "おしあげ",
+    "romaji": "Oshiage",
+    "numbering": [
+      "Z14",
+      "A20"
+    ],
+    "lines": [
+      "東京メトロ半蔵門線",
+      "都営浅草線"
+    ],
+    "location": "東京都墨田区",
+    "trivia": ""
+  },
+  {
+    "name": "目黒",
+    "kana": "めぐろ",
+    "romaji": "Meguro",
+    "numbering": [
+      "N01",
+      "I01"
+    ],
+    "lines": [
+      "東京メトロ南北線",
+      "都営三田線"
+    ],
+    "location": "東京都品川区",
+    "trivia": ""
+  },
+  {
+    "name": "白金台",
+    "kana": "しろかねだい",
+    "romaji": "Shirokanedai",
+    "numbering": [
+      "N02",
+      "I02"
+    ],
+    "lines": [
+      "東京メトロ南北線",
+      "都営三田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "白金高輪",
+    "kana": "しろかねたかなわ",
+    "romaji": "Shirokane-takanawa",
+    "numbering": [
+      "N03",
+      "I03"
+    ],
+    "lines": [
+      "東京メトロ南北線",
+      "都営三田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "麻布十番",
+    "kana": "あざぶじゅうばん",
+    "romaji": "Azabu-juban",
+    "numbering": [
+      "N04",
+      "E23"
+    ],
+    "lines": [
+      "東京メトロ南北線",
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "六本木一丁目",
+    "kana": "ろっぽんぎいっちょうめ",
+    "romaji": "Roppongi-itchome",
+    "numbering": [
+      "N05"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "東大前",
+    "kana": "とうだいまえ",
+    "romaji": "Todaimae",
+    "numbering": [
+      "N12"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "本駒込",
+    "kana": "ほんこまごめ",
+    "romaji": "Hongo-komagome",
+    "numbering": [
+      "N13"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "駒込",
+    "kana": "こまごめ",
+    "romaji": "Komagome",
+    "numbering": [
+      "N14"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "西ケ原",
+    "kana": "にしがはら",
+    "romaji": "Nishigahara",
+    "numbering": [
+      "N15"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都北区",
+    "trivia": ""
+  },
+  {
+    "name": "王子",
+    "kana": "おうじ",
+    "romaji": "Oji",
+    "numbering": [
+      "N16"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都北区",
+    "trivia": ""
+  },
+  {
+    "name": "王子神谷",
+    "kana": "おうじかみや",
+    "romaji": "Oji-kamiya",
+    "numbering": [
+      "N17"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都北区",
+    "trivia": ""
+  },
+  {
+    "name": "志茂",
+    "kana": "しも",
+    "romaji": "Shimo",
+    "numbering": [
+      "N18"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都北区",
+    "trivia": ""
+  },
+  {
+    "name": "赤羽岩淵",
+    "kana": "あかばねいわぶち",
+    "romaji": "Akabane-iwabuchi",
+    "numbering": [
+      "N19"
+    ],
+    "lines": [
+      "東京メトロ南北線"
+    ],
+    "location": "東京都北区",
+    "trivia": ""
+  },
+  {
+    "name": "雑司が谷",
+    "kana": "ぞうしがや",
+    "romaji": "Zoshigaya",
+    "numbering": [
+      "F10"
+    ],
+    "lines": [
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "西早稲田",
+    "kana": "にしわせだ",
+    "romaji": "Nishi-waseda",
+    "numbering": [
+      "F11"
+    ],
+    "lines": [
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "東新宿",
+    "kana": "ひがししんじゅく",
+    "romaji": "Higashi-shinjuku",
+    "numbering": [
+      "F12",
+      "E03"
+    ],
+    "lines": [
+      "東京メトロ副都心線",
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "北参道",
+    "kana": "きたさんどう",
+    "romaji": "Kitasando",
+    "numbering": [
+      "F14"
+    ],
+    "lines": [
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "明治神宮前〈原宿〉",
+    "kana": "めいじじんぐうまえ（はらじゅく）",
+    "romaji": "Meiji-jingumae (Harajuku)",
+    "numbering": [
+      "F15"
+    ],
+    "lines": [
+      "東京メトロ副都心線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "西馬込",
+    "kana": "にしまごめ",
+    "romaji": "Nishimagome",
+    "numbering": [
+      "A01"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都大田区",
+    "trivia": ""
+  },
+  {
+    "name": "馬込",
+    "kana": "まごめ",
+    "romaji": "Magome",
+    "numbering": [
+      "A02"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都大田区",
+    "trivia": ""
+  },
+  {
+    "name": "中延",
+    "kana": "なかのぶ",
+    "romaji": "Nakanobu",
+    "numbering": [
+      "A03"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都品川区",
+    "trivia": ""
+  },
+  {
+    "name": "戸越",
+    "kana": "とごし",
+    "romaji": "Togoshi",
+    "numbering": [
+      "A04"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都品川区",
+    "trivia": ""
+  },
+  {
+    "name": "五反田",
+    "kana": "ごたんだ",
+    "romaji": "Gotanda",
+    "numbering": [
+      "A05"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都品川区",
+    "trivia": ""
+  },
+  {
+    "name": "高輪台",
+    "kana": "たかなわだい",
+    "romaji": "Takanawadai",
+    "numbering": [
+      "A06"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "泉岳寺",
+    "kana": "せんがくじ",
+    "romaji": "Sengakuji",
+    "numbering": [
+      "A07"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "三田",
+    "kana": "みた",
+    "romaji": "Mita",
+    "numbering": [
+      "A08",
+      "I04"
+    ],
+    "lines": [
+      "都営浅草線",
+      "都営三田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "大門",
+    "kana": "だいもん",
+    "romaji": "Daimon",
+    "numbering": [
+      "A09",
+      "E21"
+    ],
+    "lines": [
+      "都営浅草線",
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "宝町",
+    "kana": "たからちょう",
+    "romaji": "Takaracho",
+    "numbering": [
+      "A12"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "東日本橋",
+    "kana": "ひがしにほんばし",
+    "romaji": "Higashi-nihonbashi",
+    "numbering": [
+      "A15"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "浅草橋",
+    "kana": "あさくさばし",
+    "romaji": "Asakusabashi",
+    "numbering": [
+      "A16"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "蔵前",
+    "kana": "くらまえ",
+    "romaji": "Kuramae",
+    "numbering": [
+      "A17",
+      "E12"
+    ],
+    "lines": [
+      "都営浅草線",
+      "都営大江戸線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "本所吾妻橋",
+    "kana": "ほんじょあづまばし",
+    "romaji": "Honjo-azumabashi",
+    "numbering": [
+      "A19"
+    ],
+    "lines": [
+      "都営浅草線"
+    ],
+    "location": "東京都墨田区",
+    "trivia": ""
+  },
+  {
+    "name": "芝公園",
+    "kana": "しばこうえん",
+    "romaji": "Shibakoen",
+    "numbering": [
+      "I05"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "御成門",
+    "kana": "おなりもん",
+    "romaji": "Onarimon",
+    "numbering": [
+      "I06"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "内幸町",
+    "kana": "うちさいわいちょう",
+    "romaji": "Uchisaiwaicho",
+    "numbering": [
+      "I07"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "水道橋",
+    "kana": "すいどうばし",
+    "romaji": "Suidobashi",
+    "numbering": [
+      "I11"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "春日",
+    "kana": "かすが",
+    "romaji": "Kasuga",
+    "numbering": [
+      "I12",
+      "E08"
+    ],
+    "lines": [
+      "都営三田線",
+      "都営大江戸線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "白山",
+    "kana": "はくさん",
+    "romaji": "Hakusan",
+    "numbering": [
+      "I13"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "千石",
+    "kana": "せんごく",
+    "romaji": "Sengoku",
+    "numbering": [
+      "I14"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都文京区",
+    "trivia": ""
+  },
+  {
+    "name": "巣鴨",
+    "kana": "すがも",
+    "romaji": "Sugamo",
+    "numbering": [
+      "I15"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "西巣鴨",
+    "kana": "にしすがも",
+    "romaji": "Nishi-sugamo",
+    "numbering": [
+      "I16"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "新板橋",
+    "kana": "しんいたばし",
+    "romaji": "Shin-itabashi",
+    "numbering": [
+      "I17"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "板橋区役所前",
+    "kana": "いたばしくやくしょまえ",
+    "romaji": "Itabashi-kuyakushomae",
+    "numbering": [
+      "I18"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "板橋本町",
+    "kana": "いたばしほんちょう",
+    "romaji": "Itabashi-honcho",
+    "numbering": [
+      "I19"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "本蓮沼",
+    "kana": "もとはすぬま",
+    "romaji": "Motohasunuma",
+    "numbering": [
+      "I20"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "志村坂上",
+    "kana": "しむらさかうえ",
+    "romaji": "Shimura-sakaue",
+    "numbering": [
+      "I21"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "志村三丁目",
+    "kana": "しむらさんちょうめ",
+    "romaji": "Shimura-sanchome",
+    "numbering": [
+      "I22"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "蓮根",
+    "kana": "はすね",
+    "romaji": "Hasune",
+    "numbering": [
+      "I23"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "西台",
+    "kana": "にしだい",
+    "romaji": "Nishidai",
+    "numbering": [
+      "I24"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "高島平",
+    "kana": "たかしまだいら",
+    "romaji": "Takashimadaira",
+    "numbering": [
+      "I25"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "新高島平",
+    "kana": "しんたかしまだいら",
+    "romaji": "Shin-takashimadaira",
+    "numbering": [
+      "I26"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "西高島平",
+    "kana": "にしたかしまだいら",
+    "romaji": "Nishi-takashimadaira",
+    "numbering": [
+      "I27"
+    ],
+    "lines": [
+      "都営三田線"
+    ],
+    "location": "東京都板橋区",
+    "trivia": ""
+  },
+  {
+    "name": "曙橋",
+    "kana": "あけぼのばし",
+    "romaji": "Akebonobashi",
+    "numbering": [
+      "S03"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "市ヶ谷",
+    "kana": "いちがや",
+    "romaji": "Ichigaya",
+    "numbering": [
+      "S04"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "小川町",
+    "kana": "おがわまち",
+    "romaji": "Ogawamachi",
+    "numbering": [
+      "S07"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "岩本町",
+    "kana": "いわもとちょう",
+    "romaji": "Iwamotocho",
+    "numbering": [
+      "S08"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都千代田区",
+    "trivia": ""
+  },
+  {
+    "name": "馬喰横山",
+    "kana": "ばくろよこやま",
+    "romaji": "Bakuro-yokoyama",
+    "numbering": [
+      "S09"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "浜町",
+    "kana": "はまちょう",
+    "romaji": "Hamacho",
+    "numbering": [
+      "S10"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "森下",
+    "kana": "もりした",
+    "romaji": "Morishita",
+    "numbering": [
+      "S11",
+      "E14"
+    ],
+    "lines": [
+      "都営新宿線",
+      "都営大江戸線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "菊川",
+    "kana": "きくかわ",
+    "romaji": "Kikukawa",
+    "numbering": [
+      "S12"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都墨田区",
+    "trivia": ""
+  },
+  {
+    "name": "西大島",
+    "kana": "にしおおじま",
+    "romaji": "Nishi-ojima",
+    "numbering": [
+      "S14"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "大島",
+    "kana": "おおじま",
+    "romaji": "Ojima",
+    "numbering": [
+      "S15"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "東大島",
+    "kana": "ひがしおおじま",
+    "romaji": "Higashi-ojima",
+    "numbering": [
+      "S16"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江東区",
+    "trivia": ""
+  },
+  {
+    "name": "船堀",
+    "kana": "ふなぼり",
+    "romaji": "Funabori",
+    "numbering": [
+      "S17"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "一之江",
+    "kana": "いちのえ",
+    "romaji": "Ichinoe",
+    "numbering": [
+      "S18"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "瑞江",
+    "kana": "みずえ",
+    "romaji": "Mizue",
+    "numbering": [
+      "S19"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "篠崎",
+    "kana": "しのざき",
+    "romaji": "Shinozaki",
+    "numbering": [
+      "S20"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "東京都江戸川区",
+    "trivia": ""
+  },
+  {
+    "name": "本八幡",
+    "kana": "もとやわた",
+    "romaji": "Motoyawata",
+    "numbering": [
+      "S21"
+    ],
+    "lines": [
+      "都営新宿線"
+    ],
+    "location": "千葉県市川市",
+    "trivia": ""
+  },
+  {
+    "name": "都庁前",
+    "kana": "とちょうまえ",
+    "romaji": "Tochomae",
+    "numbering": [
+      "E01"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "新宿西口",
+    "kana": "しんじゅくにしぐち",
+    "romaji": "Shinjuku-nishiguchi",
+    "numbering": [
+      "E02"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "若松河田",
+    "kana": "わかまつかわだ",
+    "romaji": "Wakamatsu-kawada",
+    "numbering": [
+      "E04"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "牛込柳町",
+    "kana": "うしごめやなぎちょう",
+    "romaji": "Ushigome-yanagicho",
+    "numbering": [
+      "E05"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "牛込神楽坂",
+    "kana": "うしごめかぐらざか",
+    "romaji": "Ushigome-kagurazaka",
+    "numbering": [
+      "E06"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "上野御徒町",
+    "kana": "うえのおかちまち",
+    "romaji": "Ueno-okachimachi",
+    "numbering": [
+      "E10"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "新御徒町",
+    "kana": "しんおかちまち",
+    "romaji": "Shin-okachimachi",
+    "numbering": [
+      "E11"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都台東区",
+    "trivia": ""
+  },
+  {
+    "name": "両国",
+    "kana": "りょうごく",
+    "romaji": "Ryogoku",
+    "numbering": [
+      "E13"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都墨田区",
+    "trivia": ""
+  },
+  {
+    "name": "勝どき",
+    "kana": "かちどき",
+    "romaji": "Kachidoki",
+    "numbering": [
+      "E18"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "築地市場",
+    "kana": "つきじしじょう",
+    "romaji": "Tsukiji-shijo",
+    "numbering": [
+      "E19"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都中央区",
+    "trivia": ""
+  },
+  {
+    "name": "汐留",
+    "kana": "しおどめ",
+    "romaji": "Shiodome",
+    "numbering": [
+      "E20"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "赤羽橋",
+    "kana": "あかばねばし",
+    "romaji": "Akabanebashi",
+    "numbering": [
+      "E22"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都港区",
+    "trivia": ""
+  },
+  {
+    "name": "代々木",
+    "kana": "よよぎ",
+    "romaji": "Yoyogi",
+    "numbering": [
+      "E26"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都渋谷区",
+    "trivia": ""
+  },
+  {
+    "name": "西新宿五丁目",
+    "kana": "にししんじゅくごちょうめ",
+    "romaji": "Nishi-shinjuku-gochome",
+    "numbering": [
+      "E29"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "東中野",
+    "kana": "ひがしなかの",
+    "romaji": "Higashi-nakano",
+    "numbering": [
+      "E31"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都中野区",
+    "trivia": ""
+  },
+  {
+    "name": "中井",
+    "kana": "なかい",
+    "romaji": "Nakai",
+    "numbering": [
+      "E32"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都新宿区",
+    "trivia": ""
+  },
+  {
+    "name": "落合南長崎",
+    "kana": "おちあいみなみながさき",
+    "romaji": "Ochiai-minaminagasaki",
+    "numbering": [
+      "E33"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都豊島区",
+    "trivia": ""
+  },
+  {
+    "name": "新江古田",
+    "kana": "しんえごた",
+    "romaji": "Shin-egota",
+    "numbering": [
+      "E34"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "練馬",
+    "kana": "ねりま",
+    "romaji": "Nerima",
+    "numbering": [
+      "E35"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "豊島園",
+    "kana": "としまえん",
+    "romaji": "Toshimaen",
+    "numbering": [
+      "E36"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "練馬春日町",
+    "kana": "ねりまかすがちょう",
+    "romaji": "Nerima-kasugacho",
+    "numbering": [
+      "E37"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  },
+  {
+    "name": "光が丘",
+    "kana": "ひかりがおか",
+    "romaji": "Hikarigaoka",
+    "numbering": [
+      "E38"
+    ],
+    "lines": [
+      "都営大江戸線"
+    ],
+    "location": "東京都練馬区",
+    "trivia": ""
+  }
+]

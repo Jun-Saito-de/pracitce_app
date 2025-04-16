@@ -17,11 +17,11 @@ Future<List<Station>> loadStations() async {
   // await →  読み込みが終わるまで待ってという合図
   // rootBundle →  assets（= JSONファイル）から文字列を読み込む命令
   // final String jsonString → 読み込んだ結果（JSONの中身）を文字列として保存する
-  final String jsonString = await rootBundle.loadString('assets/stations.json');
+  final String jsonString = await rootBundle.loadString('assets/stations_grouped.json');
   // jsonStringを、Dartのリストやマップとして使える形に変換
   final List<dynamic> jsonList = json.decode(jsonString);
   // mapでJSONの1件ずつに対して処理をループで行う。
-  // Station.fromjson(json) →  1つのjsonオブジェクトをStationに変換
+  // Station.fromJson(json) →  1つのjsonオブジェクトをStationに変換
   // .toList() →  最後にリストとしてまとめる
   return jsonList.map((json) => Station.fromJson(json)).toList();
 }

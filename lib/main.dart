@@ -38,6 +38,13 @@ class TokyoSubwayExplorerApp extends StatelessWidget { // 状態を持たないU
           selectedItemColor: Colors.black, // 選択中のアイコンの色
           unselectedItemColor: Colors.grey, // 選択していない方のアイコンの色
         ),
+        // elevaedbuttonも配色を合わせる
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.lightGreenAccent, // ボタン背景色
+            foregroundColor: Colors.black, // テキスト色
+          ),
+        ),
         useMaterial3: true,
       ),
       home: const MyHomePage(), // 最初に表示する画面を設定
@@ -56,8 +63,8 @@ class MyHomePage extends StatefulWidget {
 
 //  ホーム画面の見た目と動き（_HomePageState）
 class _MyHomePageState extends State<MyHomePage> {
-  // _selectedIndex は BottomNavigationBar でどのタブを選んでるかを管理するための変数
-  int _selectedIndex = 0;
+  // _selectedIndex は BottomNavigationBar でどのタブを選んでるかを管理するための変数。ホームは3番目なので2
+  int _selectedIndex = 2;
 
   // stations.json を読み込んだときにできる、「すべての駅データ」を保存
   List<Station> _stations = [];
